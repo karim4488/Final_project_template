@@ -1,10 +1,13 @@
-# Project Title
+# Adaptive Smart Traffic Intersection Controller
 
 ## Group information
-### Section number: xx
-### Group number: xx
+### Section number: 02
+### Group number: 04
 ### Team members
-List your full names and AUS IDs
+Karim Abedelfattah 96574
+Khaleel Al-Zamqan 96027
+Mustafa Al-Hamdani 96348
+
 
 ## Project Description
 Describe your project. What is it? how does it work? who is it for?
